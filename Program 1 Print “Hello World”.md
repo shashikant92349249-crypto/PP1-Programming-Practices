@@ -1,0 +1,30 @@
+**Program 1: Print “Hello World”**
+
+&#x20;    **Algorithm**
+
+
+
+Step 1: Start.
+
+Step 2: Display “Hello World”.
+
+Step 3: Stop.
+
+&#x20;       
+
+&#x20;      **Flowchart**
+
+&#x20;       
+
+&#x20;      (START)
+
+&#x20;         ↓
+
+\[Display: Hello World]
+
+&#x20;         ↓
+
+&#x20;     (STOP)
+
+
+
